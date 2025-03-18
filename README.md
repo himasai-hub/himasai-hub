@@ -23,13 +23,34 @@
 ---
 
 ## 🛠 Skills  
-### 🔹 Technical Skills:
-- **Programming Languages:** Python, R, Java, C++  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, FastAPI, Streamlit  
-- **Data Science & AI:** NLP, Computer Vision, LLMs, SLMs  
-- **Cloud & DevOps:** AWS (Bedrock, SageMaker, Lambda, Redshift), Docker  
-- **Data Visualization:** Power BI, Tableau  
-- **Databases:** SQL  
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### **Front-End Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+### **Back-End Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### **Cloud Hosting**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+
+### **Software & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
