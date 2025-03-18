@@ -81,12 +81,25 @@
 
 ---
 
-## 📈 GitHub Stats & Streaks  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himasai-hub&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himasai-hub&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+### 🏆 Stats Summary
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himasai-hub&layout=compact&theme=dark" alt="Top Languages by Repo" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himasai-hub&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
+
+
 
 ### 📬 Contact Me  
 📩 Email: [himasai1997@gmail.com](mailto:himasai1997@gmail.com)  
