@@ -1,18 +1,72 @@
--Hi, I’m @himasai-hub
+<h1 align="center">Hi, I'm Hima Sai! 👋</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himasai-hub&show_icons=true&theme=dark" alt="Hima Sai's GitHub Stats" />
+</p>
 
--👀 I’m passionate about: Building impactful data-driven solutions, Machine Learning, Data Science, and Behavioral Analytics.
+## 🏆 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=himasai-hub&color=blue)
 
--🌱 I’m currently enhancing my skills in: R programming and advanced machine learning techniques.
+---
 
-💼 Professional Background: I have hands-on experience in data science, with expertise in predictive modeling, data visualization (Tableau, Power BI), and scalable software development for data extraction and analysis. Previously, I’ve worked as an Associate Business Analyst, Machine Learning Intern, and Software Engineer, where I contributed to designing dynamic dashboards, developing business cases, and building applications to drive strategic insights.
+## 🔹 About Me
+🚀 AI Engineer with expertise in **data analysis, machine learning, and AI**  
+📈 Skilled in **NLP, Computer Vision, LLMs, and Generative AI**  
+🌍 Seeking opportunities in AI-driven innovation and cloud computing  
+💡 Passionate about deploying scalable **AI solutions on the cloud**  
+📬 Reach me at: [himasai1997@gmail.com](mailto:himasai1997@gmail.com)  
 
-💞️ I’m looking to collaborate on: Projects related to data science, machine learning, and behavioral analysis. I’d love to contribute to meaningful projects and learn from the community. Let’s create something innovative together!
+🔗 **Social Profiles:**  
+- 🌐 [GitHub](https://github.com/himasai-hub)  
+- 💼 [LinkedIn](https://linkedin.com/in/himasai1997)  
+- ✍️ [Medium](https://himasai1997.medium.com)  
 
-📫 How to reach me: himasai1997@gmail.com
+---
 
-🔗 LinkedIn: Hima Sai on LinkedIn
+## 🛠 Skills  
+### 🔹 Technical Skills:
+- **Programming Languages:** Python, R, Java, C++  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV, FastAPI, Streamlit  
+- **Data Science & AI:** NLP, Computer Vision, LLMs, SLMs  
+- **Cloud & DevOps:** AWS (Bedrock, SageMaker, Lambda, Redshift), Docker  
+- **Data Visualization:** Power BI, Tableau  
+- **Databases:** SQL  
 
-<!---
-himasai-hub/himasai-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+
+
+### **Freelance AI Developer** *(May 2023 - Present)*  
+🛠 **Fiverr, Upwork (Remote)**  
+- Built chatbots using pre-trained LLM models (GPT, LLaMA, etc.)  
+- Developed custom chatbot solutions for various industries  
+- Desinging scalable AI products for SME's
+
+  
+## 🎓 Education  
+🎓 **Master of Science in Data Science** *(2023 - 2024)*  
+📍 **University of Strathclyde, Glasgow, Scotland**  
+
+🎓 **BE in Computer Science** *(2015 - 2019)*  
+📍 **St. Joseph's College of Engineering, Chennai, India**  
+
+---
+
+## 🏆 Certifications  
+- **AWS AI Cloud Practitioner (2025)**  
+- **AWS Machine Learning Associate (2025)**  
+
+---
+
+
+---
+
+## 📈 GitHub Stats & Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himasai-hub&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Contact Me  
+📩 Email: [himasai1997@gmail.com](mailto:himasai1997@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/himasai1997](https://linkedin.com/in/himasai1997)  
