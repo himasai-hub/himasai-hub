@@ -92,12 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himasai-hub&layout=compact&theme=dark" alt="Top Languages by Repo" />
 </p>
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himasai-hub&theme=react-dark" alt="GitHub Contribution Graph" />
-</p>
 
----
 
 
 
